@@ -1,5 +1,4 @@
 ROOTRACK
-Tracing origin of social media posts
 
 Each post (txt/img/vid) uploaded to the internet will go through Rootrack.
 
@@ -21,5 +20,6 @@ When we want to find the origin of a post, we give the post as input to the iden
 Often posts have modifications made by users while they are shared (extra txt, cropped, color change etc.)
 -Rootrack will group posts that match more than 70% in the same tracking file and will also list possible modifications
 -If Rootrack cannot decide, human intervention will be needed.
+
 
 
